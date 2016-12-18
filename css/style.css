@@ -1,0 +1,16 @@
+.col01{
+  float: left;
+  width:60%;
+  margin: 10px auto;
+}
+
+.col02{
+  float: left;
+  width: 30%;
+  margin: 10px auto;
+}
+
+body{
+  margin: 0px auto;
+  width: 90%;
+}
